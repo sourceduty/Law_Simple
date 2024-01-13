@@ -1,7 +1,7 @@
 
 # Lawyers will hate this!
 
-[Lawyers](https://github.com/sourceduty/Law_Simple/assets/123030236/53dabc37-7a97-4bf8-97b0-2fb71d9e565a)
+![Lawyers](https://github.com/sourceduty/Law_Simple/assets/123030236/a39f055c-0fc7-4887-b810-20324de8caea)
 
 ***
 
