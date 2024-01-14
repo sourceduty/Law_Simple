@@ -9,6 +9,8 @@
 
 [Simplify Patent PDF Document - Example](https://chat.openai.com/g/g-nGrf808nn-law-simple)
 
+[Artificial Developer](https://github.com/sourceduty/Artificial_Developer)
+
 #
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
 ***
