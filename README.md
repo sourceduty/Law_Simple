@@ -1,4 +1,4 @@
-![Lawyers](https://github.com/sourceduty/Law_Simple/assets/123030236/a39f055c-0fc7-4887-b810-20324de8caea)
+![Law Simple](https://github.com/user-attachments/assets/e8ea090b-fd3e-4982-8137-bcd6658b3794)
 
 > Simplify any legal documents for easy reading.
 
